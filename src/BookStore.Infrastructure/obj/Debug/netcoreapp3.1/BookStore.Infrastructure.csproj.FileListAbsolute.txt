@@ -1,0 +1,16 @@
+D:\DEV\Henriquesd\BookStore\src\BookStore.Infrastructure\bin\Debug\netcoreapp3.1\BookStore.Infrastructure.deps.json
+D:\DEV\Henriquesd\BookStore\src\BookStore.Infrastructure\bin\Debug\netcoreapp3.1\BookStore.Infrastructure.runtimeconfig.json
+D:\DEV\Henriquesd\BookStore\src\BookStore.Infrastructure\bin\Debug\netcoreapp3.1\BookStore.Infrastructure.runtimeconfig.dev.json
+D:\DEV\Henriquesd\BookStore\src\BookStore.Infrastructure\bin\Debug\netcoreapp3.1\BookStore.Infrastructure.dll
+D:\DEV\Henriquesd\BookStore\src\BookStore.Infrastructure\bin\Debug\netcoreapp3.1\BookStore.Infrastructure.pdb
+D:\DEV\Henriquesd\BookStore\src\BookStore.Infrastructure\bin\Debug\netcoreapp3.1\BookStore.Domain.dll
+D:\DEV\Henriquesd\BookStore\src\BookStore.Infrastructure\bin\Debug\netcoreapp3.1\BookStore.Domain.pdb
+D:\DEV\Henriquesd\BookStore\src\BookStore.Infrastructure\obj\Debug\netcoreapp3.1\BookStore.Infrastructure.csproj.AssemblyReference.cache
+D:\DEV\Henriquesd\BookStore\src\BookStore.Infrastructure\obj\Debug\netcoreapp3.1\BookStore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\Henriquesd\BookStore\src\BookStore.Infrastructure\obj\Debug\netcoreapp3.1\BookStore.Infrastructure.AssemblyInfoInputs.cache
+D:\DEV\Henriquesd\BookStore\src\BookStore.Infrastructure\obj\Debug\netcoreapp3.1\BookStore.Infrastructure.AssemblyInfo.cs
+D:\DEV\Henriquesd\BookStore\src\BookStore.Infrastructure\obj\Debug\netcoreapp3.1\BookStore.Infrastructure.csproj.CoreCompileInputs.cache
+D:\DEV\Henriquesd\BookStore\src\BookStore.Infrastructure\obj\Debug\netcoreapp3.1\BookStore.Infrastructure.csproj.CopyComplete
+D:\DEV\Henriquesd\BookStore\src\BookStore.Infrastructure\obj\Debug\netcoreapp3.1\BookStore.Infrastructure.dll
+D:\DEV\Henriquesd\BookStore\src\BookStore.Infrastructure\obj\Debug\netcoreapp3.1\BookStore.Infrastructure.pdb
+D:\DEV\Henriquesd\BookStore\src\BookStore.Infrastructure\obj\Debug\netcoreapp3.1\BookStore.Infrastructure.genruntimeconfig.cache
