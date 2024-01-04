@@ -55,3 +55,11 @@ D:\DEV\Henriquesd\BookStore\src\BookStore.API\bin\Debug\netcoreapp3.1\BookStore.
 D:\DEV\Henriquesd\BookStore\src\BookStore.API\bin\Debug\netcoreapp3.1\BookStore.Infrastructure.pdb
 D:\DEV\Henriquesd\BookStore\src\BookStore.API\bin\Debug\netcoreapp3.1\BookStore.Domain.pdb
 D:\DEV\Henriquesd\BookStore\src\BookStore.API\obj\Debug\netcoreapp3.1\BookStore.API.csproj.CopyComplete
+D:\DEV\Henriquesd\BookStore\src\BookStore.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\DEV\Henriquesd\BookStore\src\BookStore.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\DEV\Henriquesd\BookStore\src\BookStore.API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\DEV\Henriquesd\BookStore\src\BookStore.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\DEV\Henriquesd\BookStore\src\BookStore.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\DEV\Henriquesd\BookStore\src\BookStore.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DEV\Henriquesd\BookStore\src\BookStore.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DEV\Henriquesd\BookStore\src\BookStore.API\obj\Debug\netcoreapp3.1\BookStore.API.MvcApplicationPartsAssemblyInfo.cs
